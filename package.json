@@ -1,0 +1,31 @@
+{
+  "name": "rolodexter",
+  "version": "1.0.0",
+  "description": "discord bot test project",
+  "main": "index.js",
+  "engines": {
+    "node": "12.13.1",
+    "npm": "6.12.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torichri/rolodexter.git"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "author": "torichri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/torichri/rolodexter/issues"
+  },
+  "homepage": "https://github.com/torichri/rolodexter#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
